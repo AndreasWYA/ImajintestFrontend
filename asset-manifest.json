@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ImajintestFrontend/static/css/main.82a90c63.css",
+    "main.js": "/ImajintestFrontend/static/js/main.1790e8c9.js",
+    "index.html": "/ImajintestFrontend/index.html",
+    "main.82a90c63.css.map": "/ImajintestFrontend/static/css/main.82a90c63.css.map",
+    "main.1790e8c9.js.map": "/ImajintestFrontend/static/js/main.1790e8c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a90c63.css",
+    "static/js/main.1790e8c9.js"
+  ]
+}
